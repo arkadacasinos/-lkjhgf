@@ -128,6 +128,7 @@ export default function RootLayout({
         <link rel="icon" href="/icon-dark-32x32.png" sizes="32x32" type="image/png" />
         <link rel="apple-touch-icon" href="/apple-icon.png" />
         <link rel="manifest" href="/manifest.json" />
+        <meta name="yandex-verification" content="cdfd416acd34fde5" />
       </head>
       <body className="antialiased">{children}</body>
     </html>
